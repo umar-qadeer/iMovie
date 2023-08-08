@@ -26,7 +26,7 @@ iOS code challange.
 - Xcode 14.2+
 - Swift 5.5+
 
-## Design Pattern: Model-View-ViewModel Coordinator (MVVM)
+## Design Pattern: Model-View-ViewModel (MVVM)
 is a structural design pattern that separates objects into three distinct groups:
 - #### Model 
   - Contains the data models of the application
